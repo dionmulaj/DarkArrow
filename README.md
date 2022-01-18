@@ -12,10 +12,16 @@ git clone https://github.com/dionmulaj/DarkArrow.git
 Go to DarkArrow directory using terminal, and write the following command: </br>
 chmod +x DarkArrow.sh
 </br>
+</br>
 Now you can run the script using one of the following commands: </br>
 ./DarkArrow.sh
 </br>
+</br>
 OR
+</br>
 </br>
 bash DarkArrow.sh
 </br>
+</br>
+<b>Note</b> </br>
+This tool has only been tested on Kali Linux & Ubuntu.
