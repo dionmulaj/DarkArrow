@@ -4,6 +4,6 @@ DarkArrow also helps in fixing the existing libraries, packages & modules, or ev
 For the moment the options of this script are limited since it is the first version, but more options will be added in the future versions/updates.
 
 
-<b>Installation</b>
+<b>Installation</b> </br>
 Open up terminal and write the following command:
 
